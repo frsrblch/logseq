@@ -1,0 +1,14 @@
+- Three Body Problem
+	- The parts set during the cultural revolution were interesting
+	- This felt like a book for people who like science, but don't necessarily know a lot about it
+		- The three body problem isn't unsolved, it's insoluble. Minute differences in initial conditions lead to drastically different
+	- Alpha Centauri is a ternary star system, but their orbits are quite stable
+	- What happened to his family?
+	- Ick, string theory
+	- Felt very linear, we need this thing, so now that's happening, now on to the next thing
+	- The books single character wasn't the main character
+	- These are very sloppy antagonists
+		- Caught monologuing to their already-willing minions, for no apparent reason other than so that the protagonists can find out what's going on
+		- Advanced technology is essentially magic, but the limitations of this magic are not really explored
+	- The nanotech: HPMoR did it better
+-

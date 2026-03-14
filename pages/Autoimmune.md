@@ -1,0 +1,22 @@
+- The most significant blockage is related to trauma
+	- A tremendous amount of knowledge, drive, and determination are currently not being directed at solving this problem because of an emotional blockage
+	- Ironically, psychedelics are off the table for similar reasons
+	- ![Holotropic Breathwork A New Approach to Self-Exploration and Therapy](../assets/Holotropic_Breathwork_A_New_Approach_to_Self-Exploration_and_Therapy_(SUNY_Series_in_Transpersonal_and_Humanistic_Psychology)_(Stanislav_Grof,_Christina_Grof,_Jack_Kornfield)_(Z-Library)_1743454708855_0.pdf)
+		- p2
+		- Read and learn the practice, investigate applicability to healing trauma
+- [International Journal of Disease Reversal and Prevention](https://ijdrp.org/index.php/ijdrp/index)
+	- Last checked: Vol. 6 No. 1
+- ### Rheumatoid Arthritis
+	- [Paddison Program Guide for Rheumatologists v1.6.7](https://paddisonprogram.com/wp-content/uploads/2017/09/A-Guide-For-Rheumatologists_v.1.6.7.pdf)
+- ### Osteoarthritis
+	- [A multidisciplinary lifestyle program for metabolic syndrome-associated osteoarthritis: the "Plants for Joints" randomized controlled trial](https://www.oarsijournal.com/article/S1063-4584(23)00826-9/fulltext#)
+- ### Psoriatic Arthritis
+	- [Case Study: Water-Only Fasting and an Exclusively Whole Plant Foods Diet in the Management of Psoriatic Arthritis](https://ijdrp.org/index.php/ijdrp/article/view/125/141)
+		- >the patient discontinued the use of corticosteroids and achieved a significant reduction and eventual elimination of PsA symptoms
+- ### Lupus Nephritis
+	- [Six Week Raw Vegan Nutrition Protocol Rapidly Reverses Lupus Nephritis: A Case Series](https://ijdrp.org/index.php/ijdrp/article/view/47)
+		- >Upon adopting a customized, raw, whole-food, plant-based (WFPB) eating regimen ... it was determined that she no longer needed dialysis or a kidney transplant
+- ### Type 1 Diabetes
+	- [Case Studies: Treatment and Remission of Symptoms in Type 1 Diabetes with a Nutrient-Dense, Plant-Rich (NDPR) Diet](https://ijdrp.org/index.php/ijdrp/article/view/23/41)
+		- > nutrient-dense, plant-rich (NDPR) diet ... may slow or prevent further destruction of beta cells if dietary intervention is initiated early enough
+-

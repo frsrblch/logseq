@@ -1,0 +1,8 @@
+- ecosystem
+	- `iroh`: endpoints, connections, relays, etc
+	- `iroh-blobs`:
+	- `iroh-gossip`: message dissemination
+	- `iroh-docs`:
+- `iroh-lighthouse`
+	- {{renderer excalidraw, excalidraw-2026-03-14-11-36-10}}
+-

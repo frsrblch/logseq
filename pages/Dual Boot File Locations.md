@@ -1,0 +1,8 @@
+- Logseq
+	- PopOS
+		- /home/farseer/logseq
+- Boxes
+	- Location was the same, but it wasn't loading the new VM automatically
+	- PopOS
+		- /home/farseer/.local/share/gnome-boxes/images
+- Steam

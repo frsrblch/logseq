@@ -1,0 +1,8 @@
+- Work orders should make their own copy of the BOM when the traveller is printed
+	- Allow BOM updates to be pushed to work orders as we choose
+	- This was an unintentional oversimplification that occurred when we switched from paper BOMs to the eBOM
+- When updating the BOM, users work directly with Create, Update and Delete operations on BOM lines
+	- This work would be a lot simpler if users could edit the BOM directly, like changing values in a spreadsheet
+	- The system should handle the operations needed to transform the BOM in the background based on what the user has changed
+-
+-

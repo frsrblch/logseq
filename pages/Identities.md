@@ -1,0 +1,9 @@
+- $\displaystyle e^x = 1 + \frac{x}{1!} + \frac{x^2}{2!} + ...$
+- $\displaystyle \ln x = (x-1) - \frac{(x-1)^2}{2} + \frac{(x-1)^3}{3} - ...$
+	- $\displaystyle \ln (1+x) = x - \frac{x^2}{2}+\frac{x^3}{3}-...$
+- $\displaystyle \cos x = 1 - \frac{x^2}{2!}+\frac{x^4}{4!}-...$
+- $\displaystyle \sin x = x - \frac{x^3}{3!} + \frac{x^5}{5!}-...$
+- $\displaystyle \cosh x = 1 + \frac{x^2}{2!}+\frac{x^4}{4!}+...$
+- $\displaystyle \sinh x = x + \frac{x^3}{3!} + \frac{x^5}{5!}+...$
+- $\displaystyle \arctan x = x - \frac{x^3}{3} + \frac{x^5}{5} - \frac{x^7}{7} + ...$
+-

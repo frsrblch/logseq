@@ -1,0 +1,59 @@
+- 2023-03-30
+	- Emails: 15 minutes
+	- Group meeting: 15 minutes
+	- BOM Development:
+		- Creating a new BOM development program
+			- Current program is several years old now and leaves a lot be desired
+			- New program to use current BOM to guide the creation of the new BOM
+	- Download from torque tool: 20 minutes
+- 2023-03-31 (6 hours)
+	- Emails and DCRs: 2 hours
+	- BOM development: 3 hours
+	- Goal setting: 1 hour
+- 2023-04-03
+	- Emails: 1 hour
+	- Create new group/Training Oscar: 2 hours
+	- BOM development
+- 2023-04-05
+	- Add IFL fuel lines and related groups to 3596431PBXCH: 2 hours
+- 2023-04-06 (6 hours)
+	- Add IFL fuel lines and related groups to 3596431PBXCH: 1 hour
+- 2023-04-10
+	- Emails: 20 minutes
+	- BOM Creation 5525315PBXCH
+- 2023-04-11 to 2023-04-17
+	- Focused effort on 5525315PBXCH
+		- Setting up new BOM
+		- Training Oscar
+		- Working with CS to get WOs opened
+- 2023-04-18 (5 hours)
+	- 5525315PBXCH final odds and ends
+		- Several drawings were GIF embedded in the SVG files, so there was no colouring on the drawings
+		- Reviewing BOM and drawings, moving parts around as necessary
+- 2023-04-19 to 2023-04-25
+	- Vacation
+- 2023-04-28 (4 hours)
+- 2023-04-26
+- 2023-05-02
+	- Time allocation discussion and review: 2 hours
+	- BOM update and DCN for HPCR-2 fuel pump adapter assembly: 6 hours
+- 2023-05-03
+	- Time allocation analysis: 1 hour
+	- DCRs: 2 hours
+	- Team Meeting: 1 hour
+	- HPCR-2 Reversion: 4 hours
+		- pump adapters are not available
+		- reinspection vs list of parts to order
+		- DONE Update 21064
+			- Remove must-use from HPCR-2 groups, re-add must-use to former HPFP groups, swap to 5151184REM
+		- DONE DCN Rev1
+- Task List
+	- 994K Tier 4 - 7E6714 COVER GP-CYL BLOCK
+		- has schematic of which covers go where on the cylinder block
+		- adapt this old group to the Tier 4 configuration
+		- new version has 5 ported covers
+	- Pressure Pump Engines
+		- Cat published MLS gasket and spacer plate M0159765
+		- update REMs
+		- have torque procedure updated in checklists
+		- wait for WIP (only 1 right now) to clear

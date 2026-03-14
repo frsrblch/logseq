@@ -1,0 +1,45 @@
+{:blocks (
+{:block/created-at 1712855095948
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "Geometric Algebra Introduction"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 2890.750343887671]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "9bc4fa00-f825-11ee-b06e-7f20660ef6fd"
+:noFill false
+:point [2864 192]
+:parentId "6618169f-dcf4-4486-ae0a-3c370a5921ca"
+:collapsedHeight 0
+:nonce 1712855090594}}
+:block/updated-at 1712855095948})
+:pages (
+{:block/uuid #uuid "6618169f-dcf4-4486-ae0a-3c370a5921ca"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "6618169f-dcf4-4486-ae0a-3c370a5921ca"
+:name "two body problem"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("9bc4fa00-f825-11ee-b06e-7f20660ef6fd")}}
+:block/updated-at 1712855095948
+:block/created-at 1712854687266
+:block/type "whiteboard"
+:block/name "two body problem"
+:block/original-name "Two Body Problem"})}

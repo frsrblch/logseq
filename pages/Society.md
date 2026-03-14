@@ -1,0 +1,9 @@
+- Population Growth
+	- Logistic function: $$g = (1 + r) (1 - \frac{\rho}{\rho_{max}} \frac{r}{1+r})$$
+		- Actual growth rate: $$g$
+		- Base growth rate: $$r$$
+		- Density: $$\rho$$
+		- Keep $$\frac{\rho}{\rho_{max}}$$ and $$\frac{r}{1+r}$$ from being 0
+		-
+		-
+-

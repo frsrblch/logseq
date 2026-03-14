@@ -1,0 +1,5 @@
+- $A = R^2 (\alpha + \beta + \gamma - \pi)$
+	- $A$: area
+	- $R$: radius
+	- $\alpha, \beta, \gamma$: angles between arc segments
+-

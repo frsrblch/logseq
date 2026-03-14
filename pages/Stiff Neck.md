@@ -1,0 +1,11 @@
+- levator scapulae (stiff neck)
+- scalenes (sideways)
+- semispinalis (flexion, extension, stiff neck)
+- semispinalis capitis (lying down)
+- splenius cervicis (sideways, flexion, extension, blurred, stiff neck)
+	- behind ear to upper back vertebrae
+- sternocleidomastoid (sideways, blurred, stiff neck)
+	- clavicle to below ear
+- suboccipitals (sideways, flexion, extension, blurred, stiff neck)
+	- located at the base of the skull at the back
+- trapezius (sideways, stiff neck)

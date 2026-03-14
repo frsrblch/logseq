@@ -1,0 +1,11 @@
+- For distance activities: Rx+0.5 diopter lenses
+- Print pushing: reading at the edge of blur
+- [Astigmatism charts](https://cleareyesight-batesmethod.info/id40.html)
+- Links:
+	- https://wiki.reducedlens.org/
+	- https://wiki.endmyopia.org/
+	- https://gettingstronger.org/?s=vision
+	- https://powervisionsystem.com
+	- https://myopiacure.blogspot.ca
+	- https://losetheglasses.org/
+- SPH 0.25 diopter every 3-4 months, CYL 0.25 for every two steps of SPH, AXIS do not change

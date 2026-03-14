@@ -1,0 +1,6 @@
+- New Game To-Do
+	- Join the bad guys
+	- Make a deal with the devil
+- Warlock Playthrough
+	-
+	-

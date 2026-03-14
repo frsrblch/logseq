@@ -1,0 +1,11 @@
+- RockAuto:
+	- Clutch Kit: $322.77
+	- Flywheel: $837.54
+	- Clutch Slave Cylinder: $92.33
+	- Shipping: $98.22 (Dec 12)
+	- Total: $1418.41 + labour
+- Those Guys:
+	- Clutch Kit: $1058.22
+	- Flywheel: $2334.86
+	- Clutch Slave Cylinder: $340.89
+	- Labour: $1661.45

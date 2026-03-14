@@ -1,0 +1,5 @@
+- ![image.png](../assets/image_1710610740870_0.png)
+	- $V = x_{21} \wedge x_{32} \wedge x_{43}$
+	- $V_4 = x_{21} \wedge x_{32} \wedge x_{53}$
+- ![image.png](../assets/image_1710618093532_0.png)
+	-

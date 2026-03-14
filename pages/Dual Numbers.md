@@ -1,0 +1,8 @@
+- $$\epsilon$$
+- $$\theta''$$
+- $$\theta' = \frac{(-a v + b u)}{(a^2 + u^2)}$$
+- $$\displaystyle x = x_0 + \epsilon x_1$$
+- $$\displaystyle x^2 = {x_0}^2 + \epsilon 2 x_0 \cdot x_1$$
+- $$\displaystyle \frac 1 {x^2} = \frac {1}{{x_0}^2} - \epsilon \frac{2}{{x_0}^2}x_0 \cdot x_1$$
+-
+-

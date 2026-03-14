@@ -1,0 +1,28 @@
+- Lighting
+	- Multiple light sources
+		- General lighting (cleaning lighting, otherwise dim or off)
+		- Task lighting (reading lamp, lighting over a surface, functional lighting)
+		- Accent lighting (orb lights, fancy lamps, adding personality)
+	- Different types of lighting (temperature, intensity)
+- Multiple dimensions (verticality)
+	- Tall curtains
+		- Larger than the space they cover so they fold and overlap when extended
+	- Artwork
+		- Focus of the piece should be 57" off the floor
+		- Put it in a frame
+- Textures before colors
+	- Organic materials (wood, linen, wool, cork, etc)
+- Furnish actions
+	- Make the way you function look nice
+	- Where is the command position of the room
+		- How do people approach you when they enter
+	- Conversation areas should not be larger than 10' in diameter
+- Practical, beautiful, personal
+	- Everything must be at least one of these things
+- Clean your shit
+	- 80% put away and out of sight, 20% on display
+	- Keep things clean
+	- Fluff pillows
+	- Fix things
+	- Route and hide cables
+	-

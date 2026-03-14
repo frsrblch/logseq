@@ -1,0 +1,32 @@
+- Definitions
+	- These terms are so important that their meaning has been deliberately confused to make the matter harder to understand
+	- Wages
+		- Whatever is received as the returns for exertion of labor (either hired or self-employed)
+		- E.g., a hunter's wages are taken in the game they kill, a shopkeeper in his store's profit
+	- Capital
+		- Labour that is stored up so that it can aid future endeavors
+	- Land
+		- Physical space for labour and capital to be put to use
+- George reconciles common land rights with private tenure, free markets, and modern capitalism - no bloody revolution, no "temporary" dictatorship, an no appropriation of anybody's property, and the transition can be done gradually
+	-
+- You get what you tax for, or: the law of unintended consequences
+	- Income taxes
+		- Suddenly the wealthy claim no income. Don't worry though, they're still getting wealthier.
+	- Capital gains
+		- Suddenly the wealthy don't sell their capital, they just use it as collateral and borrow against it
+	- Wealth taxes
+		- Suddenly the wealthy have their wealth somewhere else where it can't be taxes
+	- Sales taxes
+		- Adds friction to commerce, makes it so you have to buy 5c gum sticks one at a time or you won't be able to buy 5 with a quarter
+	- Corporate taxes
+		- International race to the bottom
+		- Corporations shift their IP to a tax haven, and charge international branches so much to that IP that they no longer have any profits to pay in the higher tax jurisdiction
+	- Property taxes
+		- Taxes based on current ability to pay rather than encouraging the best use of the land
+		- Punishes development and those who invest in the community
+	- Sin taxes
+		- Create incentives for black markets and smuggling if set too high
+- Rather than taxing wages, commerce, and capital, we should tax land
+- Zoning is fucked too
+	- We can have affordable housing or preserve property values, but they are opposing goals
+-

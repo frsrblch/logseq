@@ -1,0 +1,12 @@
+### BOM Export
+	- fix FG qty
+	- remove REM, XCH
+	- remove reference-only groups and parts
+		- user specified using information lines and part comments that contain "REFERENCE"?
+	- remove 0-qty lines
+	- remove columns
+		- Cost, MRP, Duplicate 1X, Etc
+- ### Customer Services
+	- Send DCNs to CS Supervisors (Cassandra McNirney & Lorraine Weyermann)
+-
+-

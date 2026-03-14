@@ -1,0 +1,18 @@
+- Transfer money for mortgage
+	- 26045 - 48663 + X = 10000
+	- X = 32618
+	- Sell CASH.TO from margin acct
+		- Order entered, check that it executed on monday
+- Mortgage lump sum payment
+	-
+- Sophie mats
+	- 0.1 mg CBD 15 minutes in advance
+		- 190 mg/mL, 19 mg / 0.1 mL
+		- 100x dilution, 0.2 mg / 0.1 mL
+	- coconut oil, gently massage into the mats
+	- brush them out
+		- start with pad brush, then try bladed comb?
+	- slicing with a razor blade seemed to work ok last time
+- New front tires
+	- OK Tire?
+- Order renfaire costume

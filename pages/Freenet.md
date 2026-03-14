@@ -1,0 +1,4 @@
+- `freenet service start`/`stop`
+- `fdev diagnostics`: see active connections
+- Dashboard: http://nova.locut.us:3133/
+-

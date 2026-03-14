@@ -1,0 +1,48 @@
+- 3.1 The Partial Derivative
+	- Let $$F: U \subseteq \R^m \rightarrow \mathbb{G}^n$$, where $$U$$ is open.
+	- Let $$x \in U$$ have coordinates $$(x_1, x_2, ..., x_m)$$ wrt an orthonormal basis $$\{e_1, e_2, ..., e_m\}$$
+	- $$\partial_i F = \frac{\partial F(\bold{x})}{\partial x_i} = \lim_{h \rightarrow 0} \frac{F(\bold{x} + h e_i) - F(\bold{x})}{h}$$
+	- Th. 3.2 Partial Derivative Properties
+		- $$\frac{\partial (aF)}{\partial x_i} = a \frac{\partial F}{\partial x_i}$$
+		- $$\frac{\partial (F + G)}{\partial x_i} = \frac{\partial F}{\partial x_i} + \frac{\partial G}{\partial x_i}$$
+		- $$\frac{\partial (F G)}{\partial x_i} = F \frac{\partial G}{\partial x_i} + \frac{\partial F}{\partial x_i} G$$
+		- $$\frac{\partial (F \cdot G)}{\partial x_i} = F \cdot \frac{\partial G}{\partial x_i} + \frac{\partial F}{\partial x_i} \cdot G$$
+		- $$\frac{\partial (F \wedge G)}{\partial x_i} = F \wedge \frac{\partial G}{\partial x_i} + \frac{\partial F}{\partial x_i} \wedge G$$
+	- Th. 3.3 Mixed partials are equal
+		- $$\frac{\partial^2 F}{\partial x_i \partial x_j} = \frac{\partial^2 F}{\partial x_j \partial x_i}$$
+- 3.2 The Taylor Expansion
+	- Th. 3.4 First order approximation: $$t^* \epsilon[0,1]$$
+		- $$f(\bold x + \bold h) = f(\bold x) + \partial_i f(\bold x)h_i + \frac{1}{2} \partial_{ij} f(\bold x + t^* \bold h) h_i h_j $$
+	- Second order approximation: $$t^* \epsilon[0,1]$$
+		- $$f(\bold x + \bold h) = f(\bold x) + \partial_i f(\bold x)h_i + \frac{1}{2} \partial_{ij} f(\bold x) h_i h_j + \frac{1}{6} \partial_{ijk} f(\bold x + t^* \bold h) h_i h_j h_k$$
+	- (The last terms are the error)
+- 3.3 The Differential
+	- Th. 3.9: Given $$f: R^m \rightarrow R^n$$ differentiable at $$\bold x$$
+		- E.g., $$f(x_1, ..., x_m) = (f_1, ..., f_n)$$
+		- $$\left[ f'_x \right] = \left[\begin{array}{ccc}
+		  \frac{\partial f_1}{\partial x_1} & ... & \frac{\partial f_1}{\partial x_1}\\
+		  \vdots & \ddots & \vdots \\
+		  \frac{\partial f_n}{\partial x_1} & ... & \frac{\partial f_n}{\partial x_m}
+		  \end{array}\right]$$
+- 3.4 The Chain Rule
+	- Th. 3.10: The differential of a composition is the composition of the differentials
+		- $$(f \circ g)' = g' \circ f'$$
+		- $$(g \circ f)'_x(h) = g'_{f(x)}(f'_x(h))$$
+	- Corollary 3.11:
+		- $$\left[(f \circ g)\right]' = \left[ g' \right] \left[ f' \right]$$
+		- $$\frac{\partial z_i}{\partial x_j} = \frac{\partial z_i}{\partial y_k} \frac{\partial y_k}{\partial x_j}$$
+	- Th. 3.12: Differential of an inverse
+		- The differential of an inverse is the inverse of the differential (?)
+		- $$(f^{-1})'_{f(a)} = (f'_a)^{-1}$$
+- 3.5 The Directional Derivative
+	- Th. 3.13
+		- $$\partial_h f(x) = \lim_{t \rightarrow 0} \frac{f(\bold{x} + t \bold{h}) - f(\bold{x})}{t} $$
+	- Th. 3.14
+		- $$\partial_h f(\bold{x}) = f'_x(\bold{h})$$
+	- Th. 3.15: Directed differential properties
+		- a. $$\partial_h (a f) = a \partial_h f$$
+		- b. $$\partial_h(f + g) = \partial_h f + \partial_h g$$
+		- c. $$\partial_{ah} f = a \partial_h f$$
+		- d. $$\partial_{h+k} f = \partial_h f + \partial_k f$$
+- $$\widetilde{M}$$
+-

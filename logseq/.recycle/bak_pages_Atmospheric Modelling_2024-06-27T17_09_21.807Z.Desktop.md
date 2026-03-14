@@ -1,0 +1,17 @@
+- [HITRAN Data](https://hitran.org/data-index/) - Full absorption spectra for all gases
+- Planck's Law ($W / m^3$)
+	- $u(\lambda, T) = \displaystyle \left( \frac{\tau h c^2}{\lambda^5} \right) \left(\frac{1}{ \exp(\frac{hc}{\lambda k_B T}) - 1 }\right)$
+	- Integrate over the wavelength to get intensity
+	- Multiply by $\displaystyle \left( \frac{r_{star}}{r_{orbit}} \right)^2$ to get final intensity
+- Lorentzian Line Profile
+	- Princeton Lecture Slides:
+		- [Lecture 5](https://cefrc.princeton.edu/sites/g/files/toruqf1071/files/Files/2013%20Lecture%20Notes/Hanson/pLecture5.pdf)
+		- [Lecture 6](https://cefrc.princeton.edu/sites/g/files/toruqf1071/files/Files/2013%20Lecture%20Notes/Hanson/pLecture6.pdf)
+	- $\displaystyle \alpha(\nu) = \frac{S L(\nu, \nu_0, \gamma)}{1 + \Delta P}$
+		- $\displaystyle L(\nu, \nu_0, \gamma) = \frac{\gamma/\pi}{\left(\nu - \nu_0\right)^2+\gamma^2}$
+		- $\gamma(T) = \gamma_{air}(T) + \gamma_{self}(T)$
+		- $\displaystyle\gamma_{air}(T) = \gamma_{air,0} = \left(\frac{P}{P_0}\right)\left(\frac{T_0}{T}\right)^{n_{air}}$
+		- $\displaystyle\gamma_{self}(T)=\gamma_{self,0}\left(\frac{P}{P_0}\right)\left(\frac{T_0}{T}\right)^{n_{self}}$
+	-
+	-
+-

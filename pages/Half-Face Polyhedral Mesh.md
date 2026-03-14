@@ -1,0 +1,5 @@
+- Purpose: extend the half-edge mesh data structure to a three dimension space-filling data structure
+	- Vertex -> Half-edge -> Face
+	-
+- Face -> Polyhedron
+-

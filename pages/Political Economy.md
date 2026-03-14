@@ -1,0 +1,3 @@
+- Henry George - [[Progress and Poverty]]
+- Silvio Gesell - [[The Natural Economic Order]]
+-

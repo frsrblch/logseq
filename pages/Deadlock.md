@@ -1,0 +1,16 @@
+- Damage Equation
+	- $d_{total} = d_{raw} * (1 - m_{SR} + m_{SRR}) * (1 + m_{SA})$
+		- $m_{SR} = 1-\Pi (1 - {R_S}_i)$
+			- $R_S$: spirit resist
+		- $m_{SRR} = 1 - \Pi (1 - {R_{SR}}_i)$
+			- $R_{SR}$: spirit resist reduction
+		- $m_{SA} = \Pi (1 + {SA}_i) - 1$
+			- ${SA}_i$: spirit amp
+- McGuinnis
+	- Abilities: 3, 2, 1, 4
+	- Wall friendly mobs at start so they fight on your side
+	- Cut opponent off from his wave to kill mobs for free
+	- Cut opponent off from tower for easy kill
+- Yamato
+	- Tank n Spank
+		-

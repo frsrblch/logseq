@@ -1,0 +1,35 @@
+- Cognitive testing
+	- Montreal Cognitive Assessment
+		- ~30 minute test, gives score out of 30
+		- https://mocacognition.com/digitaltools/
+- Antidepressants (**Trazaodone**)
+- Antihistamines (**Blexten**)
+	- [Cognitive impairment under treatment with second-and third-generation antihistamines](https://alz-journals.onlinelibrary.wiley.com/doi/epdf/10.1002/alz.041489)
+		- Impairment of episodic working memory, particularly in older adults
+- Restless leg syndrome (**Pramipexole**)
+	-
+- Histamine intolerance
+- Inflammation
+- Diet
+	- Sugar
+	- Supplement
+		- B12
+		- C
+		- D
+		- O3
+		- Zinc
+- Exercise
+- Metabolic health
+- Insomnia
+- Mast Cell Activation Diseases (MCAD)
+	- **Skin Symptoms**: Hives, flushing, itching, and angioedema (swelling beneath the skin).****
+	- **Gastrointestinal**: Abdominal pain, diarrhea, vomiting, and nausea.
+	- **Respiratory**: Wheezing, shortness of breath, and cough.
+	- **Cardiovascular**: Tachycardia (rapid heartbeat), hypotension (low blood pressure), and sometimes fainting.
+	- **Neurological**: Headaches, migraines, and difficulty concentrating ("brain fog").
+	- **Musculoskeletal**: Bone or muscle pain, and joint swelling.
+	- **General**: Fatigue, malaise, and temperature sensitivity.
+	- **Anaphylaxis**: Severe, life-threatening allergic reaction that requires immediate medical attention. Symptoms may include difficulty breathing, severe drop in blood pressure, and loss of consciousness.
+	- **Other**: Symptoms can also include anxiety, depression, and irritability due to the involvement of various biochemical mediators besides histamine.
+-
+-

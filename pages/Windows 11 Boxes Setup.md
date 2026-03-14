@@ -1,0 +1,16 @@
+- 60 GB storage, 4 GB RAM
+- `Shift-F10` to open cmd
+- regedit during install (google LabConfig for details)
+	- `HKEY_LOCAL_MACHINE\SYSTEM\Setup\LabConfig`
+		- (`LabConfig` key must be created)
+		- Add D-words with value 1: `BypassCPUCheck`, `BypassSecureBootCheck`, `BypassRAMCheck`, `BypassTPMCheck`
+- disconnect internet after first install phase at region select screen
+	- When it says you need internet to continue, press `Shift-F10` and enter `OOBE\BYPASSNRO` in the command prompt to restart with the `I don't have internet` option enabled
+- Citrix config:
+	- citrix.com/downloads/workspace-app/windows/workspace-app-for-windows-latest.html
+		- version 23.11.1.140 known to work
+			- it will need to update before it works
+	- use fbalch@finning.com for initial configuration of Citrix
+		- initial config did not work with VPN off, only worked with VPN on
+	- fraser.balch@oemreman.com
+	- oem-comp684.oemnet.com

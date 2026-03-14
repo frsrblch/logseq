@@ -1,0 +1,55 @@
+- Vector algebra
+	- No inversion, no closed multiplication
+	- Dot product of two vectors: scalar
+	- Cross product of two vectors: another vector?
+- What is a Group?
+	- |||
+	  |Closure|$a b = c$ for all $a$, $b$|
+	  |Associativity|$(ab) c = a (b c)$|
+	  |Identity element ($e$)|$a e = e a = a$|
+	  |Inverse element|$a a^{-1} = a^{-1} a = e$|
+	  |No commutativity|$a b \not\equiv b a$|
+	- Vector algebra forms an additive group, but does not form a multiplicative group
+		- Dot product ($a \cdot b$) provides an inverse, but no closure
+		- Cross product ($a \times b$) provides closure, but no associativity and no inverse
+	- E.g., find the transformation $M$ that transforms $a$ into $b$ such that $Ma = b$
+		- $Ma = b$
+		- $M a a^{-1} = b a^{-1}$
+		- $M = b a^{-1}$
+- Math is made up, so lets start by making up the rules of our algebra
+	- Start from the real numbers, $\mathbb R$
+	- Add to them "geometric numbers", that represent the dimensions in our space
+		- E.g., in a 2-dimensional space, we could use $x$ and $y$ as our spatial dimensions
+			- Our unit quantities in these dimensions are represented by $\bold e_x$ and $\bold e_y$
+			- $\bold e_x \bold e_x = {\bold e_x}^2 = 1$
+			- $\bold e_x \bold e_y = \bold e_{xy}$
+			- $\bold e_y \bold e_x = \bold e_{yx}$
+			- $\bold e_{xy} = - \bold e_{yx}$ and $\bold e_{yx} = - \bold e_{xy}$
+			- ${\bold e_{xy}}^2 = (\bold e_x \bold e_y) (\bold e_x \bold e_y) = - \bold e_y \bold e_x \bold e_x \bold e_y = -\bold e_y (\bold e_x \bold e_x) \bold e_y = -\bold e_y \bold e_y = -1$
+				- Just as $i^2 = -1$
+		- Other "geometric numbers" that square to $0$ and $-1$ are also useful for more advanced algebras
+	- And that's it. These are real ($\mathbb R$) algebras, any "complex" behavior will be the result of these properties
+	- Products of vectors:
+		- $\bold a = a_x \bold e_x + a_y \bold e_y$
+		- $\bold b = b_x \bold e_x + b_y \bold e_y$
+		- $\bold {ab} = (a_x b_x + a_y b_y) + (a_x b_y - a_y b_x) \bold e_{xy}$
+		- $\bold a \cdot \bold b = a_x b_x + a_y b_y$
+		- $\bold a \wedge \bold b = (a_x b_y - a_y b_x) \bold e_{xy}$
+		- $\bold{ab = a \cdot b + a \wedge b}$
+	- Back to our transformation example:
+		- $\displaystyle a^{-1} = \frac{a}{{|a|}^2} = \frac{a_x \bold e_x + a_y \bold e_y}{{a_x}^2 + {a_y}^2}$
+		- $M = b a^{-1}$
+		- $\displaystyle M = \frac{(b_x \bold e_x + b_y \bold e_y) (a_x \bold e_x + a_y \bold e_y)}{{a_x}^2 + {a_y}^2}$
+		- $\displaystyle M = \frac{(b_x a_x + b_y a_y) + (b_x a_y - b_y a_x) \bold e_{xy}}{{a_x}^2 + {a_y}^2}$
+		- $\displaystyle M = \frac{(b \cdot a) + (b \wedge a)}{{|a|}^2}$
+- The notation for different algebras: $\mathbb G(p, q, r)$
+	- $p$: the number of bases that square to $1$
+	- $q$: the number of bases that square to $-1$
+	- $r$: the number of bases that square to $0$
+	- E.g., $n$-dimensional space of real numbers, $\mathbb R^n$, can be represented within $\mathbb G(n, 0, 0)$
+		- Flat elements with arbitrary orientation that pass through the origin
+	- $\mathbb G(n,0,1)$: projective geometry in an $n$-dimensional space
+		- Flat elements with arbitrary orientation or position
+	- $\mathbb G(n+1,1,0)$: conformal geometry in an $n$-dimensional space
+		- Elements with any orientation, position, and curvature (allowing circles and spheres)
+-

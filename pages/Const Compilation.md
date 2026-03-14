@@ -1,0 +1,21 @@
+- An exploration of compile-time optimization and geometric algebra
+- `KVector<T, const A: u32, const G: usize, const: N: usize>([T; N])`
+	- `T`: Type that will be used to represent the real numbers (e.g., `f32`, `f64`)
+	- `A`: Bitflag type specifying the bases of the algebra and their squares
+		- Bits 0-7 tell us which bases square to 1 (pos)
+			- Used in Euclidian geometric algebra ($\mathcal G$)
+		- Bits 8-15 tell us which bases square to -1 (neg)
+			- Used in conformal geometric algebra (CGA) and spacetime algebra (STA)
+		- Bits 16-23 tell use which bases square to 0 (zero)
+			- Used in projective geometric algebra (PGA)
+		- Bases are densely packed and do not overlap
+		- E.g., `0b_00001000_00000000_00000111` is the signature for 3D PGA
+			- The first three bases square to 1, the fourth squares to 0
+	- `G`: Bit field indicating which grades are part of the `KVector`
+		- E.g., `0b0001` would be a scalar, `0b0010` would be a vector, `0b0101` would be a motor (scalar and bivector) in $\mathcal G_3$
+	- `N`: The number of values in the type
+		- Determined by the dimension of `A` and the grades in `G`
+- Compilation:
+	- The compiler doesn't seem to use const functions, but does use const values
+	- A Cayley table is built for `A`
+	- A blade set is compiled for `A` and `G`

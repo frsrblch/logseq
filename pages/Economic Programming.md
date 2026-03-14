@@ -1,0 +1,31 @@
+- # Market Simulator
+	- Prices move stochastically based on buyer/seller volume ratio
+	- Start with a simple 2 resource model
+	- Train agents to invest in production based on price data
+	- Production consumes inputs and produce outputs
+		- Production(land, labor, capital, inputs) -> Outputs
+	- Land
+		- Biome
+		- Geography
+		- Hydrology
+		- Atmosphere
+		- Radiation
+	- Food
+		- Grain
+		- Produce
+		- Meat
+	- Sectors
+		- Food
+		- Mining
+		- Material
+		- Industry
+		- Energy
+		- Service
+		- Administrative
+		- Luxury
+	- Labour (consider Education instead?)
+		- Primitive
+		- Agrarian
+		- Industrial
+		- High Technology
+	-

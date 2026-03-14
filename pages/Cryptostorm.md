@@ -1,0 +1,4 @@
+- Token:
+	- bsp7D-bLUC4-QY7ZM-Pi2q8
+	- SHA512:
+		- 03e4c19879ac3c9aef224613be53826bc91e784c7776aebcd4d10a9c8f3902016ea78000f959315b3fb0a9dd8f2ac1fec7f00fcadd4e47a7ca15d2dfeef85c72

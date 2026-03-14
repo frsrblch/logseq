@@ -1,0 +1,4 @@
+- Proactive dental work
+- Max out HSA
+	- Look for used barbell equipment
+-

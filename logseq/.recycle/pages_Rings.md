@@ -1,0 +1,46 @@
+- Procedurally-generated vines grown into the shape of a band
+	- Sprout from bottom in both directions and grow around the loop
+	- Smooth cylindrical inner surface
+- Two wedding bands, one of which interlocks with the engagement ring
+- Settings for gemstones?
+	- Smaller lab diamonds as a sparkly highlight?
+		- 0.03 carat = 2mm diameter for $10-30?
+		- 0.25 carat = 4mm diameter for $300-600
+	- Embedded between the vines, or erupting as buds from them?
+- [Modeling golden section in plants](https://www.sciencedirect.com/science/article/pii/S1002007108003419)
+	- Vines grow using the single-axis, branching off from a main stem, rather than forking in the gather-axis pattern
+- State:
+	- Nodes
+		- Radius
+	- Edges
+		- Length
+- Forces:
+	- Tension
+		- $\displaystyle E = \frac{\sigma}{\epsilon}$
+			- E: Young's modulus
+			- $\sigma$: stress (force per area)
+			- $\epsilon$: strain (proportional deformation)
+	- Bending
+		- $\displaystyle \sigma = \frac{My}{I}$
+		- $\displaystyle I_x = \frac{\pi}{4}r^4$ [*](https://en.wikipedia.org/wiki/List_of_second_moments_of_area)
+		- $\displaystyle \kappa = \frac{1}{r}$
+			- $\kappa$: curvature
+		- $\displaystyle \kappa = \frac{M}{E I}$
+			-
+	- Torsion
+		- $\displaystyle I_z = \frac{\pi}{2}r^4$ [*](https://en.wikipedia.org/wiki/List_of_second_moments_of_area)
+		- $\displaystyle \theta = \frac{TL}{JG}$
+			- $\theta$: angular deflection
+			- T: torque
+			- L: length
+			- G: [shear modulus](https://en.wikipedia.org/wiki/Shear_modulus)
+	- "Gravity"
+		- Attraction towards center of finger
+	- Guiding
+		- We use this to guide vines to grow around the finger
+		- The real equivalent is negative gravitropism
+			- Growth opposite the force of gravity
+		-
+- Maths
+	- $\displaystyle \kappa(t) = \frac{2 π t}{l}$
+	-

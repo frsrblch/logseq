@@ -1,0 +1,6 @@
+- $B = a \bold {e}_+ + b \bold{e}_- +c \bold{e}_0$
+- $B^2 = a^2 - b^2$
+- $\displaystyle e^x = 1 + \frac{x}{1!} + \frac{x^2}{2!} + ...$
+- $\displaystyle e^B = 1 + \frac{B}{1!} + \frac{B^2}{2!} + ...$
+- $\displaystyle e^B = 1 + \frac{a \bold {e}_+ + b \bold{e}_- +c \bold{e}_0}{1!} + \frac{(a \bold {e}_+ + b \bold{e}_- +c \bold{e}_0)^2}{2!} + \frac{(a \bold {e}_+ + b \bold{e}_- +c \bold{e}_0)^3}{3!} +...$
+- $\displaystyle e^B = 1 + (a \bold {e}_+ + b \bold{e}_- +c \bold{e}_0) + \frac{(a \bold {e}_+ + b \bold{e}_- +c \bold{e}_0)^2}{2!} + \frac{(a \bold {e}_+ + b \bold{e}_- +c \bold{e}_0)^3}{3!} +...$

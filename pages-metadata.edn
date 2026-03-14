@@ -1,0 +1,654 @@
+[{:block/name "a",
+  :block/created-at 1661965127693,
+  :block/updated-at 1661965127693}
+ {:block/name "apr 10th, 2023",
+  :block/created-at 1681167811162,
+  :block/updated-at 1681167811162}
+ {:block/name "apr 15th, 2023",
+  :block/created-at 1681540443873,
+  :block/updated-at 1681540443873}
+ {:block/name "apr 16th, 2023",
+  :block/created-at 1681624803705,
+  :block/updated-at 1681624803705}
+ {:block/name "apr 17th, 2023",
+  :block/created-at 1681711243454,
+  :block/updated-at 1681711243454}
+ {:block/name "apr 18th, 2023",
+  :block/created-at 1681797643278,
+  :block/updated-at 1681797643278}
+ {:block/name "apr 19th, 2023",
+  :block/created-at 1681884043130,
+  :block/updated-at 1681884043130}
+ {:block/name "apr 1st, 2023",
+  :block/created-at 1680379424991,
+  :block/updated-at 1680379424991}
+ {:block/name "apr 20th, 2023",
+  :block/created-at 1681970442919,
+  :block/updated-at 1681970442919}
+ {:block/name "apr 21st, 2023",
+  :block/created-at 1682056842716,
+  :block/updated-at 1682056842716}
+ {:block/name "apr 22nd, 2023",
+  :block/created-at 1682143244026,
+  :block/updated-at 1682143244026}
+ {:block/name "apr 2nd, 2023",
+  :block/created-at 1680415204942,
+  :block/updated-at 1680415204942}
+ {:block/name "apr 30th, 2023",
+  :block/created-at 1682874988151,
+  :block/updated-at 1682874988151}
+ {:block/name "apr 3rd, 2023",
+  :block/created-at 1680501604805,
+  :block/updated-at 1680501604805}
+ {:block/name "apr 4th, 2023",
+  :block/created-at 1680588044010,
+  :block/updated-at 1680588044010}
+ {:block/name "apr 5th, 2023",
+  :block/created-at 1680674443810,
+  :block/updated-at 1680674443810}
+ {:block/name "aug 1st, 2023",
+  :block/created-at 1690869604873,
+  :block/updated-at 1691000564130}
+ {:block/name "aug 2nd, 2023",
+  :block/created-at 1690956000884,
+  :block/updated-at 1690956000884}
+ {:block/name "aug 3rd, 2023",
+  :block/created-at 1691042455147,
+  :block/updated-at 1691042455147}
+ {:block/name "aug 4th, 2023",
+  :block/created-at 1691128854926,
+  :block/updated-at 1691128854926}
+ {:block/name "aug 5th, 2023",
+  :block/created-at 1691221818228,
+  :block/updated-at 1691350775272}
+ {:block/name "aug 6th, 2023",
+  :block/created-at 1691301654081,
+  :block/updated-at 1691301654081}
+ {:block/name "aug 7th, 2023",
+  :block/created-at 1691388053025,
+  :block/updated-at 1691388053025}
+ {:block/name "aug 8th, 2023",
+  :block/created-at 1691476123078,
+  :block/updated-at 1691523588966}
+ {:block/name "aug 9th, 2023",
+  :block/created-at 1691560853115,
+  :block/updated-at 1691560853115}
+ {:block/name "b",
+  :block/created-at 1661965127693,
+  :block/updated-at 1661965127693}
+ {:block/name "bivector logarithms",
+  :block/created-at 1685131822891,
+  :block/updated-at 1685133369809}
+ {:block/name "c",
+  :block/created-at 1661965127693,
+  :block/updated-at 1661965127693}
+ {:block/name "canceled",
+  :block/created-at 1661965127693,
+  :block/updated-at 1661965127693}
+ {:block/name "cancelled",
+  :block/created-at 1661965127693,
+  :block/updated-at 1661965127693}
+ {:block/name "card",
+  :block/created-at 1661965127693,
+  :block/updated-at 1661965127693}
+ {:block/name "classical mechanics",
+  :block/created-at 1665774614062,
+  :block/updated-at 1665791942994}
+ {:block/name "clifford algebra to geometric calculus",
+  :block/created-at 1668396880437,
+  :block/updated-at 1685230608868}
+ {:block/name "conformal geometric algebra",
+  :block/created-at 1665195613067,
+  :block/updated-at 1665213872069}
+ {:block/name "const compilation",
+  :block/created-at 1669764060968,
+  :block/updated-at 1669830108911}
+ {:block/name "contents",
+  :block/created-at 1661965127693,
+  :block/updated-at 1661965127693}
+ {:block/name "dec 18th, 2022",
+  :block/created-at 1671431268034,
+  :block/updated-at 1671431268034}
+ {:block/name "dec 19th, 2022",
+  :block/created-at 1671433202781,
+  :block/updated-at 1671433202781}
+ {:block/name "dec 20th, 2022",
+  :block/created-at 1671519602651,
+  :block/updated-at 1671519602651}
+ {:block/name "dec 21st, 2022",
+  :block/created-at 1671606002476,
+  :block/updated-at 1671606002476}
+ {:block/name "dec 22nd, 2022",
+  :block/created-at 1671736090661,
+  :block/updated-at 1671736090661}
+ {:block/name "dec 23rd, 2022",
+  :block/created-at 1671778800972,
+  :block/updated-at 1671778800972}
+ {:block/name "dec 24th, 2022",
+  :block/created-at 1671865200783,
+  :block/updated-at 1671865200783}
+ {:block/name "dec 25th, 2022",
+  :block/created-at 1671951659447,
+  :block/updated-at 1671951659447}
+ {:block/name "dec 26th, 2022",
+  :block/created-at 1672038059235,
+  :block/updated-at 1672038059235}
+ {:block/name "doing",
+  :block/created-at 1661965127693,
+  :block/updated-at 1661965127693}
+ {:block/name "done",
+  :block/created-at 1661965127693,
+  :block/updated-at 1661965127693}
+ {:block/name "economic programming",
+  :block/created-at 1669880407296,
+  :block/updated-at 1670002441836}
+ {:block/name "favorites",
+  :block/created-at 1661965127693,
+  :block/updated-at 1661965127693}
+ {:block/name "feb 12th, 2023",
+  :block/created-at 1676263071153,
+  :block/updated-at 1676263071153}
+ {:block/name "feb 13th, 2023",
+  :block/created-at 1676271632441,
+  :block/updated-at 1676271632441}
+ {:block/name "feb 1st, 2023",
+  :block/created-at 1675234834564,
+  :block/updated-at 1675234834564}
+ {:block/name "feb 2nd, 2023",
+  :block/created-at 1675321234452,
+  :block/updated-at 1675321234452}
+ {:block/name "feb 3rd, 2023",
+  :block/created-at 1675407634385,
+  :block/updated-at 1675407634385}
+ {:block/name "game design",
+  :block/created-at 1662705722751,
+  :block/updated-at 1700935818566}
+ {:block/name "geometric algebra introduction",
+  :block/created-at 1695447944465,
+  :block/updated-at 1700676773617}
+ {:block/name "identities",
+  :block/created-at 1685037752906,
+  :block/updated-at 1685131748619}
+ {:block/name "in-progress",
+  :block/created-at 1661965127693,
+  :block/updated-at 1661965127693}
+ {:block/name "jan 10th, 2023",
+  :block/created-at 1673334003172,
+  :block/updated-at 1673334003172}
+ {:block/name "jan 11th, 2023",
+  :block/created-at 1673420403012,
+  :block/updated-at 1673420403012}
+ {:block/name "jan 12th, 2023",
+  :block/created-at 1673506856456,
+  :block/updated-at 1673506856456}
+ {:block/name "jan 1st, 2023",
+  :block/created-at 1672615048425,
+  :block/updated-at 1672615048425}
+ {:block/name "jan 26th, 2023",
+  :block/created-at 1674796777253,
+  :block/updated-at 1674796777253}
+ {:block/name "jan 27th, 2023",
+  :block/created-at 1674802833848,
+  :block/updated-at 1674802833848}
+ {:block/name "jan 2nd, 2023",
+  :block/created-at 1672691404493,
+  :block/updated-at 1672691404493}
+ {:block/name "jan 31st, 2023",
+  :block/created-at 1675228799608,
+  :block/updated-at 1675228799608}
+ {:block/name "jan 3rd, 2023",
+  :block/created-at 1672729257998,
+  :block/updated-at 1672729257998}
+ {:block/name "jan 4th, 2023",
+  :block/created-at 1672815657808,
+  :block/updated-at 1672815657808}
+ {:block/name "jan 5th, 2023",
+  :block/created-at 1672902057611,
+  :block/updated-at 1672902057611}
+ {:block/name "jan 6th, 2023",
+  :block/created-at 1672988457638,
+  :block/updated-at 1672988457638}
+ {:block/name "jan 7th, 2023",
+  :block/created-at 1673074804322,
+  :block/updated-at 1673074804322}
+ {:block/name "jan 8th, 2023",
+  :block/created-at 1673161203535,
+  :block/updated-at 1673161203535}
+ {:block/name "jan 9th, 2023",
+  :block/created-at 1673247603853,
+  :block/updated-at 1673247603853}
+ {:block/name "jul 11th, 2023",
+  :block/created-at 1689108231403,
+  :block/updated-at 1689108231403}
+ {:block/name "jul 16th, 2023",
+  :block/created-at 1689535246883,
+  :block/updated-at 1689535246883}
+ {:block/name "jul 17th, 2023",
+  :block/created-at 1689573657693,
+  :block/updated-at 1689573657693}
+ {:block/name "jul 18th, 2023",
+  :block/created-at 1689660057582,
+  :block/updated-at 1689660057582}
+ {:block/name "jul 1st, 2023",
+  :block/created-at 1688191245241,
+  :block/updated-at 1688191245241}
+ {:block/name "jul 2nd, 2023",
+  :block/created-at 1688277645056,
+  :block/updated-at 1688277645056}
+ {:block/name "jul 31st, 2023",
+  :block/created-at 1690859214963,
+  :block/updated-at 1690859214963}
+ {:block/name "jul 3rd, 2023",
+  :block/created-at 1688364044886,
+  :block/updated-at 1688364044886}
+ {:block/name "jul 4th, 2023",
+  :block/created-at 1688450444647,
+  :block/updated-at 1688450444647}
+ {:block/name "jul 5th, 2023",
+  :block/created-at 1688536844527,
+  :block/updated-at 1688536844527}
+ {:block/name "jul 6th, 2023",
+  :block/created-at 1688623244401,
+  :block/updated-at 1688623244401}
+ {:block/name "jul 7th, 2023",
+  :block/created-at 1688709644271,
+  :block/updated-at 1688709644271}
+ {:block/name "jun 10th, 2023",
+  :block/created-at 1686376801703,
+  :block/updated-at 1686376801703}
+ {:block/name "jun 24th, 2023",
+  :block/created-at 1687587952751,
+  :block/updated-at 1687587952751}
+ {:block/name "jun 25th, 2023",
+  :block/created-at 1687672845184,
+  :block/updated-at 1687672845184}
+ {:block/name "jun 26th, 2023",
+  :block/created-at 1687759246142,
+  :block/updated-at 1687759246142}
+ {:block/name "jun 27th, 2023",
+  :block/created-at 1687845645907,
+  :block/updated-at 1687845645907}
+ {:block/name "jun 28th, 2023",
+  :block/created-at 1687932045799,
+  :block/updated-at 1687932045799}
+ {:block/name "jun 29th, 2023",
+  :block/created-at 1688018402808,
+  :block/updated-at 1688018402808}
+ {:block/name "jun 30th, 2023",
+  :block/created-at 1688104845400,
+  :block/updated-at 1688104845400}
+ {:block/name "jun 5th, 2023",
+  :block/created-at 1685998792105,
+  :block/updated-at 1685998792105}
+ {:block/name "jun 6th, 2023",
+  :block/created-at 1686069626609,
+  :block/updated-at 1686069626609}
+ {:block/name "jun 7th, 2023",
+  :block/created-at 1686117607157,
+  :block/updated-at 1686117607157}
+ {:block/name "jun 8th, 2023",
+  :block/created-at 1686204006995,
+  :block/updated-at 1686204006995}
+ {:block/name "jun 9th, 2023",
+  :block/created-at 1686290406856,
+  :block/updated-at 1686290406856}
+ {:block/name "later",
+  :block/created-at 1661965127693,
+  :block/updated-at 1661965127693}
+ {:block/name "learning options",
+  :block/created-at 1685998792328,
+  :block/updated-at 1686087049280}
+ {:block/name "mar 16th, 2023",
+  :block/created-at 1679003422206,
+  :block/updated-at 1679003422206}
+ {:block/name "mar 21st, 2023",
+  :block/created-at 1679428562146,
+  :block/updated-at 1679428562146}
+ {:block/name "mar 22nd, 2023",
+  :block/created-at 1679464802104,
+  :block/updated-at 1679464802104}
+ {:block/name "mar 24th, 2023",
+  :block/created-at 1679691318451,
+  :block/updated-at 1679725248506}
+ {:block/name "mar 25th, 2023",
+  :block/created-at 1679724045029,
+  :block/updated-at 1679764742174}
+ {:block/name "mar 26th, 2023",
+  :block/created-at 1679810444660,
+  :block/updated-at 1679810444660}
+ {:block/name "mar 27th, 2023",
+  :block/created-at 1679896844423,
+  :block/updated-at 1679896844423}
+ {:block/name "mar 28th, 2023",
+  :block/created-at 1679983244237,
+  :block/updated-at 1679983244237}
+ {:block/name "mar 29th, 2023",
+  :block/created-at 1680069644096,
+  :block/updated-at 1680069644096}
+ {:block/name "mar 30th, 2023",
+  :block/created-at 1680156545894,
+  :block/updated-at 1680156545894}
+ {:block/name "mar 31st, 2023",
+  :block/created-at 1680242403226,
+  :block/updated-at 1680242403226}
+ {:block/name "mar 5th, 2023",
+  :block/created-at 1678050328691,
+  :block/updated-at 1678050328691}
+ {:block/name "mar 6th, 2023",
+  :block/created-at 1678086039307,
+  :block/updated-at 1678086039307}
+ {:block/name "mar 7th, 2023",
+  :block/created-at 1678172439565,
+  :block/updated-at 1678172439565}
+ {:block/name "mar 8th, 2023",
+  :block/created-at 1678258838901,
+  :block/updated-at 1678258838901}
+ {:block/name "may 10th, 2023",
+  :block/created-at 1683698402302,
+  :block/updated-at 1683698402302}
+ {:block/name "may 18th, 2023",
+  :block/created-at 1684453304243,
+  :block/updated-at 1684453304243}
+ {:block/name "may 19th, 2023",
+  :block/created-at 1684528620150,
+  :block/updated-at 1684528620150}
+ {:block/name "may 1st, 2023",
+  :block/created-at 1682920843188,
+  :block/updated-at 1682920843188}
+ {:block/name "may 20th, 2023",
+  :block/created-at 1684562420031,
+  :block/updated-at 1684562420031}
+ {:block/name "may 21st, 2023",
+  :block/created-at 1684648819863,
+  :block/updated-at 1684648819863}
+ {:block/name "may 22nd, 2023",
+  :block/created-at 1684735219730,
+  :block/updated-at 1684735219730}
+ {:block/name "may 25th, 2023",
+  :block/created-at 1685037742805,
+  :block/updated-at 1685037742805}
+ {:block/name "may 26th, 2023",
+  :block/created-at 1685080818980,
+  :block/updated-at 1685080818980}
+ {:block/name "may 27th, 2023",
+  :block/created-at 1685167217495,
+  :block/updated-at 1685167217495}
+ {:block/name "may 28th, 2023",
+  :block/created-at 1685253617320,
+  :block/updated-at 1685253617320}
+ {:block/name "may 29th, 2023",
+  :block/created-at 1685340017134,
+  :block/updated-at 1685340017134}
+ {:block/name "may 2nd, 2023",
+  :block/created-at 1683007243016,
+  :block/updated-at 1683007243016}
+ {:block/name "may 30th, 2023",
+  :block/created-at 1685462826214,
+  :block/updated-at 1685462826214}
+ {:block/name "may 3rd, 2023",
+  :block/created-at 1683129444307,
+  :block/updated-at 1683129444307}
+ {:block/name "may 4th, 2023",
+  :block/created-at 1683180031055,
+  :block/updated-at 1683180031055}
+ {:block/name "may 5th, 2023",
+  :block/created-at 1683266430894,
+  :block/updated-at 1683266430894}
+ {:block/name "may 6th, 2023",
+  :block/created-at 1683405332512,
+  :block/updated-at 1683405332512}
+ {:block/name "may 7th, 2023",
+  :block/created-at 1683439231761,
+  :block/updated-at 1683439231761}
+ {:block/name "may 8th, 2023",
+  :block/created-at 1683525631691,
+  :block/updated-at 1683525631691}
+ {:block/name "may 9th, 2023",
+  :block/created-at 1683612002135,
+  :block/updated-at 1683612002135}
+ {:block/name "moving plan",
+  :block/created-at 1681874891111,
+  :block/updated-at 1683690264178}
+ {:block/name "nov 11th, 2023",
+  :block/created-at 1699731876178,
+  :block/updated-at 1699731876178}
+ {:block/name "nov 12th, 2023",
+  :block/created-at 1699772439626,
+  :block/updated-at 1699772439626}
+ {:block/name "nov 13th, 2022",
+  :block/created-at 1668396880086,
+  :block/updated-at 1668396880086}
+ {:block/name "nov 13th, 2023",
+  :block/created-at 1699858838380,
+  :block/updated-at 1699858838380}
+ {:block/name "nov 14th, 2022",
+  :block/created-at 1668409246277,
+  :block/updated-at 1668409246277}
+ {:block/name "nov 14th, 2023",
+  :block/created-at 1699945238214,
+  :block/updated-at 1699945238214}
+ {:block/name "nov 15th, 2023",
+  :block/created-at 1700031637945,
+  :block/updated-at 1700031637945}
+ {:block/name "nov 16th, 2022",
+  :block/created-at 1668586302825,
+  :block/updated-at 1668586302825}
+ {:block/name "nov 17th, 2022",
+  :block/created-at 1668668446965,
+  :block/updated-at 1668668446965}
+ {:block/name "nov 1st, 2022",
+  :block/created-at 1667409869351,
+  :block/updated-at 1667409869351}
+ {:block/name "nov 21st, 2022",
+  :block/created-at 1669073420631,
+  :block/updated-at 1669073420631}
+ {:block/name "nov 21st, 2023",
+  :block/created-at 1700614493092,
+  :block/updated-at 1700617473169}
+ {:block/name "nov 22nd, 2022",
+  :block/created-at 1669100454843,
+  :block/updated-at 1669100454843}
+ {:block/name "nov 22nd, 2023",
+  :block/created-at 1700676652426,
+  :block/updated-at 1700676657299}
+ {:block/name "nov 23rd, 2022",
+  :block/created-at 1669186854681,
+  :block/updated-at 1669186854681}
+ {:block/name "nov 23rd, 2023",
+  :block/created-at 1700722848783,
+  :block/updated-at 1700722848783}
+ {:block/name "nov 24th, 2022",
+  :block/created-at 1669273201605,
+  :block/updated-at 1669273201605}
+ {:block/name "nov 24th, 2023",
+  :block/created-at 1700809247675,
+  :block/updated-at 1700809247675}
+ {:block/name "nov 25th, 2022",
+  :block/created-at 1669359655641,
+  :block/updated-at 1669359655641}
+ {:block/name "nov 25th, 2023",
+  :block/created-at 1700895648608,
+  :block/updated-at 1700895648608}
+ {:block/name "nov 26th, 2022",
+  :block/created-at 1669446055572,
+  :block/updated-at 1669446055572}
+ {:block/name "nov 27th, 2022",
+  :block/created-at 1669532455543,
+  :block/updated-at 1669532455543}
+ {:block/name "nov 2nd, 2022",
+  :block/created-at 1667409869011,
+  :block/updated-at 1667409869011}
+ {:block/name "nov 2nd, 2023",
+  :block/created-at 1698946541055,
+  :block/updated-at 1698946541055}
+ {:block/name "nov 3rd, 2022",
+  :block/created-at 1667455204171,
+  :block/updated-at 1667455204171}
+ {:block/name "nov 3rd, 2023",
+  :block/created-at 1698991241590,
+  :block/updated-at 1698991241590}
+ {:block/name "nov 4th, 2023",
+  :block/created-at 1699077641460,
+  :block/updated-at 1699077641460}
+ {:block/name "nov 5th, 2022",
+  :block/created-at 1667678472371,
+  :block/updated-at 1667678472371}
+ {:block/name "nov 5th, 2023",
+  :block/created-at 1699164041104,
+  :block/updated-at 1699164041104}
+ {:block/name "nov 6th, 2022",
+  :block/created-at 1667714407117,
+  :block/updated-at 1667714407117}
+ {:block/name "nov 7th, 2022",
+  :block/created-at 1667804404558,
+  :block/updated-at 1667804404558}
+ {:block/name "nov 8th, 2022",
+  :block/created-at 1667890808123,
+  :block/updated-at 1667890808123}
+ {:block/name "nov 9th, 2022",
+  :block/created-at 1667977203551,
+  :block/updated-at 1667977203551}
+ {:block/name "now",
+  :block/created-at 1661965127693,
+  :block/updated-at 1661965127693}
+ {:block/name "oct 1st, 2023",
+  :block/created-at 1696140039166,
+  :block/updated-at 1696140039166}
+ {:block/name "oct 20th, 2022",
+  :block/created-at 1666977470916,
+  :block/updated-at 1666987823645}
+ {:block/name "oct 2nd, 2023",
+  :block/created-at 1696226438987,
+  :block/updated-at 1696226438987}
+ {:block/name "oct 30th, 2022",
+  :block/created-at 1667154500965,
+  :block/updated-at 1667154500965}
+ {:block/name "oct 31st, 2022",
+  :block/created-at 1667244591428,
+  :block/updated-at 1667256050300}
+ {:block/name "oct 3rd, 2023",
+  :block/created-at 1696312838834,
+  :block/updated-at 1696312838834}
+ {:block/name "oct 4th, 2023",
+  :block/created-at 1696399238710,
+  :block/updated-at 1696399238710}
+ {:block/name "oct 5th, 2023",
+  :block/created-at 1696485638460,
+  :block/updated-at 1696485638460}
+ {:block/name "oct 6th, 2022",
+  :block/created-at 1665036050090,
+  :block/updated-at 1666979518985}
+ {:block/name "oct 8th, 2022",
+  :block/created-at 1665208804909,
+  :block/updated-at 1666979301517}
+ {:block/name "orbital motion",
+  :block/created-at 1666977471076,
+  :block/updated-at 1680472442152}
+ {:block/name "pga dynamics",
+  :block/created-at 1667678497022,
+  :block/updated-at 1689574120779}
+ {:block/name "proc macros",
+  :block/created-at 1671736097128,
+  :block/updated-at 1673289344874}
+ {:block/name "progress and poverty",
+  :block/created-at 1690859271426,
+  :block/updated-at 1690875755108}
+ {:block/name "project mom",
+  :block/created-at 1695766671213,
+  :block/updated-at 1695930507600}
+ {:block/name "quitting checklist",
+  :block/created-at 1687587989273,
+  :block/updated-at 1687724305365}
+ {:block/name "rational trigonometry",
+  :block/created-at 1662484365972,
+  :block/updated-at 1662571667392}
+ {:block/name "rigid body dynamics in cga",
+  :block/created-at 1665774614926,
+  :block/updated-at 1665774614926}
+ {:block/name "sep 10th, 2023",
+  :block/created-at 1694325629483,
+  :block/updated-at 1694325629483}
+ {:block/name "sep 11th, 2023",
+  :block/created-at 1694412029274,
+  :block/updated-at 1694412029274}
+ {:block/name "sep 12th, 2022",
+  :block/created-at 1662962404698,
+  :block/updated-at 1663051531164}
+ {:block/name "sep 12th, 2023",
+  :block/created-at 1694498429166,
+  :block/updated-at 1694498429166}
+ {:block/name "sep 13th, 2022",
+  :block/created-at 1663048851767,
+  :block/updated-at 1663259397163}
+ {:block/name "sep 13th, 2023",
+  :block/created-at 1694584828979,
+  :block/updated-at 1694584828979}
+ {:block/name "sep 14th, 2023",
+  :block/created-at 1694671228679,
+  :block/updated-at 1694671228679}
+ {:block/name "sep 15th, 2023",
+  :block/created-at 1694757628578,
+  :block/updated-at 1694757628578}
+ {:block/name "sep 22nd, 2023",
+  :block/created-at 1695447826102,
+  :block/updated-at 1695447826102}
+ {:block/name "sep 23rd, 2023",
+  :block/created-at 1695448801078,
+  :block/updated-at 1695448801078}
+ {:block/name "sep 26th, 2022",
+  :block/created-at 1664172050681,
+  :block/updated-at 1664218891411}
+ {:block/name "sep 26th, 2023",
+  :block/created-at 1695766641324,
+  :block/updated-at 1695766641324}
+ {:block/name "sep 27th, 2023",
+  :block/created-at 1695794439832,
+  :block/updated-at 1695794439832}
+ {:block/name "sep 28th, 2023",
+  :block/created-at 1695880839644,
+  :block/updated-at 1695880839644}
+ {:block/name "sep 29th, 2023",
+  :block/created-at 1695967239477,
+  :block/updated-at 1695967239477}
+ {:block/name "sep 30th, 2023",
+  :block/created-at 1696053639378,
+  :block/updated-at 1696053639378}
+ {:block/name "sep 3rd, 2023",
+  :block/created-at 1693782404222,
+  :block/updated-at 1693782404222}
+ {:block/name "sep 4th, 2023",
+  :block/created-at 1693807204157,
+  :block/updated-at 1693807204157}
+ {:block/name "sep 5th, 2023",
+  :block/created-at 1693893632154,
+  :block/updated-at 1693893632154}
+ {:block/name "sep 6th, 2023",
+  :block/created-at 1693980031969,
+  :block/updated-at 1693980031969}
+ {:block/name "sep 7th, 2023",
+  :block/created-at 1694066431776,
+  :block/updated-at 1694066431776}
+ {:block/name "sep 8th, 2023",
+  :block/created-at 1694153529385,
+  :block/updated-at 1694153529385}
+ {:block/name "sep 9th, 2023",
+  :block/created-at 1694239229687,
+  :block/updated-at 1694239229687}
+ {:block/name "set theory and metric spaces",
+  :block/created-at 1662656797535,
+  :block/updated-at 1662684013462}
+ {:block/name "todo",
+  :block/created-at 1661965127693,
+  :block/updated-at 1661965127693}
+ {:block/name "wait",
+  :block/created-at 1661965127693,
+  :block/updated-at 1661965127693}
+ {:block/name "waiting",
+  :block/created-at 1661965127693,
+  :block/updated-at 1661965127693}
+ {:block/name "wgpu notes",
+  :block/created-at 1661965094157,
+  :block/updated-at 1661965094157}
+ {:block/name "work log",
+  :block/created-at 1680211397752, 
+  :block/updated-at 1683650356250}]

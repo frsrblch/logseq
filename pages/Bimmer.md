@@ -1,0 +1,35 @@
+- Diagnostic
+	- $2000
+		- "oil pan is main cause of oil leak. also looks like front crank seal is sweating. vvt solenoid on front of engine is leaking through the connector. ~~oil filler gasket is also leaking~~"
+			- the filler gasket is just a bad pour
+		- Replace Oil Pan Gasket
+		- Front Crankshaft Seal
+	- $760
+		- Variable Valve Timing Solenoid (top front of engine)
+	- $440
+		- Replace Alternator Drive Belt
+	- $170 (for bulbs!)
+		- Replace tail lamp bulb carriers and harness connectors
+	- $170
+		- OBS Diagnostic
+- Itemized:
+	- Oil Pan Gasket ~$1200
+		- [Tech Article](https://www.pelicanparts.com/BMW/techarticles/BMW-3-Series-E46/105-ENGINE-Oil_Pan_Gasket_Replacement/105-ENGINE-Oil_Pan_Gasket_Replacement.htm) - 5/5 difficulty, 7 hours
+	- Front Crankshaft Seal ~$800
+		- No tech article, in Bentley manual
+	- Starter
+		- [Tech Article](https://www.pelicanparts.com/BMW/techarticles/BMW-3-Series-E46/13-ENGINE-Replacing_Your_Starter/13-ENGINE-Replacing_Your_Starter.htm) - 4/5 difficulty, 3 hours
+		- [$200 reman](https://www.rockauto.com/en/catalog/bmw,2004,325i,2.5l+l6,1433871,electrical,starter+motor,4152)
+	- Variable Valve Timing Solenoid
+		- No tech article, 3-minute removal video
+		- {{video https://www.youtube.com/watch?v=nAHAacTBkmg}}
+	- Engine Drive Belts
+		- [Tech Article](https://www.pelicanparts.com/BMW/techarticles/BMW-3-Series-E46/02-BASICS-Replacing_Your_Drive_Belt/02-BASICS-Replacing_Your_Drive_Belt.htm) - 2/5 difficulty, 2 hours
+		- Also replace belt tensioners
+		- The parts all come together in a kit
+	- Tail Lamps
+		- Replace
+- Edmonton BMW Mechanics
+	- [AutoGermany](https://autogermany.ca/)
+		- Texted name and VIN for quote
+	-

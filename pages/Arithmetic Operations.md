@@ -1,0 +1,26 @@
+- Subtraction
+	- $c - b = a$
+	- $c - a = b$
+- Negation
+	- $-b = 0 - b$
+- Addition
+	- $c = a + b = a - (-b)$
+	- $c = b + a = b - (-a)$
+- Division
+	- $a \div b = c$
+	- $7 \div 3  => 7 - 3 - 3 - 1 = 0 => 2 \frac{1}{3}$
+- Reciprocal
+	- $\frac{1}{b} = 1 \div b$
+- Multiplication
+	- $a = c \times b = c \div \frac{1}{b}$
+	- $a = b \times c = b \div \frac{1}{c}$
+- Powers
+	- $2^{a / b} = 2^c$
+	- $\sqrt[b]2 = c$
+- Exponentiation
+	- $\displaystyle a = c ^ b = \sqrt[1/b]c$
+	- $\sqrt[b]a = \sqrt[b]{c^b} = c$
+	- $x^{\frac{a}{b}} = x^{c}$
+	-
+-
+-

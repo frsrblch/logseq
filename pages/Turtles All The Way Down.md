@@ -1,0 +1,23 @@
+- ![Turtles All The Way Down Vaccine Science and Myth (Zoey OToole Mary Holland) (Z-Library).pdf](../assets/Turtles_All_The_Way_Down_Vaccine_Science_and_Myth_(Zoey_OToole_Mary_Holland)_(Z-Library)_1769891994781_0.pdf)
+- ![Turtles Book - English References.pdf](../assets/Turtles_Book_-_English_References_1769892163740_0.pdf)
+- ![Vaccine Status Miscategorization (the cheap trick)](../assets/2024.03.09.24304015v6.full_1770795851114_0.pdf)
+	- [Misclassification Bias](https://catalogofbias.org/biases/misclassification-bias/)
+	- Outcome reporting bias
+		- presenting relative risk reduction (95% effective) vs absolute risk reduction (0.5% effective)
+	- Types of miscategorisation:
+		- Basic: vaccinated counted as unvaccinated, twice vaccinated counted as vaccinated, during the arbitrary window
+			- 31 of 40
+		- Unverified: unknown vaccine status counted as unvaccinated
+			- 4 of 40
+		- Uncontrolled: self-administered or self-reported vaccination or infection status, became unblinded or sought vaccination outside the study
+			- 2 of 40
+		- Excluded: vaccinated by became infected or died during the arbitrary period not counted as vaccinated or unvaccinated but are removed from the study
+			- 8 of 40
+		- Undefined: no definitions given for either or both vaccinated or unvaccinated
+			- 2 of 40
+		- None (Baden et al, 2020; Khairullin et al, 2020; Polack et al, 2020)
+			- 3 of 40
+				- ![Baden et al](../assets/NEJMoa2035389_1770847476966_0.pdf) ![Appendices](../assets/nejmoa2035389_appendix_1770847494744_0.pdf)
+				- Khairullin et al was not an MRNA vaccine
+				- ![Polack et al](../assets/NEJMoa2110345_1770848272578_0.pdf) ![Appendices](../assets/nejmoa2110345_appendix_1770848329262_0.pdf)
+-

@@ -1,0 +1,28 @@
+- Texture and Modelling: A Procedural Approach
+	- Procedural generation, noise functions
+- Linear and Nonlinear Programming
+	- Optimization and problem solving
+- Dive Into Deep Learning
+	- Write types and compute shaders for the various algorithms
+- Prolog
+	- Scryer Prolog implemented in Rust
+- Introduction to Operations Research
+	- Chapters:
+		- Linear Programming
+		- Simplex Method: Solving Linear Programming Problems
+		- Sensitivity Analysis
+		- Transportation and Assignment Problems
+		- Network Optimization Models
+		- Project Management
+		- Dynamic Programming
+		- Integer Programming
+		- Nonlinear Programming
+		- Game Theory
+		- Decision Analysis
+		- Markov Chains
+		- Queuing Theory
+		- Inventory Theory
+		- Forecasting
+		- Markov Decision Processes
+		- Simulation
+-

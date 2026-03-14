@@ -1,0 +1,32 @@
+- $\displaystyle \bold a = -\frac{\mu \hat{\bold x} }{|x|^2}$
+- $\displaystyle \dot{\bold a} = -\mu (\frac{d\hat{\bold x}}{dt} |x|^2 - \hat{\bold x})$
+	- $\displaystyle \dot{\bold{a}} = \frac{f'g - fg'}{g^2}$
+	- $\displaystyle \dot{\bold{a}} = \frac{ \frac{(\bold v \wedge \hat{\bold x}) \hat{\bold x}}{|\bold x|} |\bold x|^2 - \hat{\bold x} (2 \bold x \cdot \bold v)}{|\bold x|^4}$
+	- $\displaystyle \dot{\bold{a}} = -\mu [ \frac{ (\bold v \wedge \hat{\bold x}) \cdot \hat{\bold x}}{|\bold x|^3} - \frac{2 (\hat{\bold x} \cdot \bold v) \hat{\bold x}}{|\bold x|^3} ]$
+- $\displaystyle f = \hat{\bold x} = \frac{\bold x}{|\bold x|} = \frac{\bold x}{h}$
+	- $\displaystyle f' = \frac{(\bold v h - \bold x h')}{|\bold x|^2}$
+	- $\displaystyle f' = \frac{(\bold v |\bold x| - \bold x \frac{\bold x \cdot \bold v}{|\bold x|})}{|\bold x|^2}$
+	- $\displaystyle f' = \frac{(|\bold x| \bold v - \bold x \cdot \bold v \hat{\bold x})}{|\bold x|^2}$
+	- $\displaystyle f' = \frac{\bold v}{|\bold x|} - \frac{\bold x \cdot \bold v \hat{\bold x}}{|\bold x|^2}$
+	- retry:
+	- $f' = \dot{\hat{\bold x}}$
+	- $\displaystyle \bold {v_{\perp}} = \frac{\bold v \wedge \bold x}{\bold x}$
+	- $\displaystyle \bold {v_{\perp}} = (\bold v \wedge \hat{\bold x}) \hat{\bold x}$
+	- $\displaystyle \bold {v_{\perp}} = \frac{(\bold v \wedge \bold x) \bold{x} }{|\bold x|^2}$
+	- $\displaystyle f' = \frac{ \bold{v_{\perp}} }{ |\bold x| }$
+	- $\displaystyle f' = \frac{(\bold v \wedge \bold x) \bold{x} }{|\bold x|^3}$
+	- $\displaystyle f' = \frac{(\bold v \wedge \hat{\bold x}) \hat{\bold x}}{|\bold x|}$
+- $g = |x|^2 = {\bold x}^2$
+	- $g' = \bold v \bold x + \bold x \bold v = 2 \bold x \cdot \bold v + \bold v \wedge \bold x + \bold x \wedge \bold v = 2 \bold x \cdot \bold v$
+	- $g' = 2 \bold x \cdot \bold v$
+	- also: $g' = \frac{d}{dt} \bold x \cdot \bold x = \bold v \cdot \bold x + \bold x \cdot \bold v = 2 \bold x \cdot \bold v$
+- $h = |\bold x| = \sqrt{\bold x \bold x} = \sqrt g$
+	- $\displaystyle h' = \frac{1}{2 \sqrt{g}}g'$
+	- $\displaystyle h' = \frac{1}{2} \frac{2 \bold x \cdot \bold v}{|\bold x|}$
+	- $\displaystyle h' = \frac{\bold x \cdot \bold v}{|\bold x|}$
+	- $h' = \hat{\bold x} \cdot \bold v$
+- $\displaystyle \frac{-\mu}{|\bold{x}|^2} \bold{x}$
+- $\displaystyle \frac{1}{2} |\frac{dx}{dt}|^2$
+- $\displaystyle \frac{\mu}{|\bold{x}|^2} \frac{d\bold{x}}{dt} - |\bold{x}|^{-2} \frac{d\mu}{dt} \bold{x}$
+- $\displaystyle \frac{\mu}{|\bold{x}|^3} \bold{x} \dot{\bold{x}}$
+-

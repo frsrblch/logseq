@@ -1,0 +1,7 @@
+- We were so glad that we could share that day with you.
+- It feels redundant to be welcoming you to the family when you've been a member of it for this long, but I'm glad that it's finally official.
+- Try to spend it all at once, preferably on something you'll remember. Or pay down the mortgage, money is fungible after all.
+-
+- Thanks again for including Cassandra in the celebrations. It meant a lot to me that she could be there. It felt a little redundant to welcome Leela into the family when she's been a part of it for so long, but I'm glad that it's finally official. Her family are great, it was good to see them again. And the Fees too.
+- I wasn't able to figure out how to put an e-transfer inside a card, so I'm just going to wire it to you. Try to spend it all in one place. I hope that you guys have a great honeymoon!
+-

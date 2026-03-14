@@ -1,0 +1,6 @@
+- Resources:
+	- ![decl_prog.pdf](../assets/decl_prog_1771666697075_0.pdf)
+	- [Wiki Tutorial](https://github.com/Mercury-Language/mercury/wiki/Tutorial)
+	- [book.pdf](https://mercurylang.org/documentation/papers/book.pdf)
+- Package manager: [merchant](https://github.com/stewy33/merchant)
+-

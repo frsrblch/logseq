@@ -1,0 +1,7 @@
+- Epictetus
+	- Wealth consists not in having great possessions, but in having few wants.
+- Henry George
+	- Most men do not think.
+	- If thinking men are few, they are for that reason all the more powerful. Let no man imagine that he has no influence. Whoever he may be, and wherever he may be placed, the man who thinks becomes a light and a power.
+- Aleksandr I. Solzhenitsyn
+	- Nothing is more boring than a man with a career.
