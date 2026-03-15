@@ -6,8 +6,8 @@
 	- The Matter with Things
 	- Capitalism: Competition, Conflict, Crises
 	- Dissolving Illusions
-	- Software Foundations Vol 1: Logical Foundations
-	- On the Shortness of Life: Life is Long if You Know How to Use It ()Seneca)
+	- Software Foundations Vol 1: Logical Foundations (Roqc)
+	- On the Shortness of Life: Life is Long if You Know How to Use It (Seneca)
 	- DONE Mate - The Myth of Normal
 - ### Fiction
 	- Mistborn Era 2
