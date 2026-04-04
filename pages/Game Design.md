@@ -1,4 +1,5 @@
 - Crate overview
+  collapsed:: true
 	- `camera`
 	- `clifford`
 		- TODO refactor to simplified generics for the `num-dual` changes
@@ -47,6 +48,7 @@
 		- ![image.png](../assets/image_1727207817402_0.png)
 			- https://excalidraw.com/#json=h7m10FCmZmYf_tOPeux4i,v4KDk49XlMSj0pcxoTDbaw
 		- Brushes
+		  collapsed:: true
 			- `Text` - subpixel antialiased texture
 			- `Rect` - procedural meshes based on `Bounds`
 				- ![image.png](../assets/image_1724530262693_0.png)
@@ -182,6 +184,7 @@
 					- Intersection of 3 golden rectangles ($$1$$ by $$\frac{1+ \sqrt 5} 2$$)
 				- Tetrahedron
 - Cities
+  collapsed:: true
 	- Demographics?
 		- Birth rate
 			- Each
@@ -294,10 +297,18 @@
 			- `AngularMomentum` = `Distance` $\wedge$ `Momentum`
 			- `AngularImpulse` = $\Delta$ `AngularMomentum`
 	- This still feels like a misadventure in bike-shedding
+- Combat
+	- [Missile Defense is NP-Complete](https://smu160.github.io/posts/missile-defense-is-np-complete/)
 - Random noise
 	- [OpenSimplex noise](https://www.shadertoy.com/view/ttdGR8)
 	- Stochastic process, brownian motion
 		- https://en.wikipedia.org/wiki/Wiener_process#Brownian_scaling
+- Tutorials
+	- Start each with detailed orders outlining the setting and the player's objectives
+		- Take the orders from HH and rewrite accordingly
+	- Starship command
+		- Teaches: Navigation (relativistic and hyper), communication, negotiation, sensors, tactical, fire control, damage control, system repair, ship logistics
+		- Objective: Navigate to a system and root out the pirates
 - Data model
 	- CRUD - Create, Read, Update, Delete
 	- Commands: Delete, Create,
