@@ -29,4 +29,46 @@
 - Rather than taxing wages, commerce, and capital, we should tax land
 - Zoning is fucked too
 	- We can have affordable housing or preserve property values, but they are opposing goals
--
+- ### Book 1, Chapter 1 - Wages
+	- Wages are the product of labor, not drawn from capital
+- ### Book 1, Chapter 2 - Terms
+	- Wealth
+	- Capital
+		- That portion of wealth that is employed in production of more wealth
+		- Capital $\subset$ Wealth
+	- Land
+	- Labour
+	- Wages
+		- The return received from the exertion of Labour
+		- Distinguished from the return received from the use of capital or the use of land
+		- Wages are drawn from the production of labour, not from capital
+	- Money
+		- The medium of exchange rather than a form of wealth
+- ### Book 1, Chapter 3 - Wages not drawn from capital but produced by the labour
+- ### Book 1, Chapter 4 - Maintenance of Labourers not drawn from capital
+- ### Book 1, Chapter 5 - The real function of Capital
+	- Capital increases the efficiency of labour, it enhances the production of labour
+	- The efficiency of capital increases with scale, but at small scales of production lower quantities of capital are the most efficient
+		- A large factory is the most efficient way to produce cars, but the least efficient way to produce one car
+- ### Book 2 - Malthus
+	- zzz
+- ### Book 3 Chapter 2 - Rent and the Law of Rent
+	- Rent: payment for the use of land separate from improvements which are considered interest on capital
+	- Rent is the price of monopoly arising from the reduction to individual ownership of natural elements which human exertion can neither produce nor increase
+	- Produce = Rent + Wages + Interest
+	- As rent increases with productive power of a community, the share of production remaining for wages and interest holds steady and the benefits accrue to the owners of land
+- ### Book 3, Chapter 3 - Of Interest and the Cause of Interest
+	- Because capital is exchangeable, and some forms of capital grow in accordance with nature, interest is the growth of capital
+- ### Book 3, Chapter 4 - Of Spurious Capital and of Profits Often Mistaken for Interest
+	- Monopoly power over any resource grants rentier-like income
+		- E.g., a royal monopoly on gold and silver thread
+- ### Book 3, Chapter 5 - The Law of Interest
+	- Capital is labour impressed upon matter, stored up to be used to enhance later labour
+	- The use of capital is then the use of labour
+	- The wages of labour and the interest to capital are thus linked
+	- An increase in interest will drive more labour into the production of capital
+	- The maximum that can be given for capital is the increase it will bring (or it would be used at a loss) and the minimum will be the replacement of that capital (or the capital could not be maintained)
+- ### Book 3, Chapter 6 - Wages and the Law of Wages
+- ### Book 5, Chapter 1 - The Primary Cause of Recurring Paroxysms of Industrial Depression
+	- Speculation in land values raises rents to the point that capital and labour cannot be gainfully employed
+	- Landowners hold out for higher prices as long as they can, strangling the economy
